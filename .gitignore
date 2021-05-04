@@ -1,4 +1,5 @@
 .idea
+.idea/*
 .env.dev
 .env.prod
 .env.prod.db
